@@ -2,7 +2,6 @@
 
 This project explores the use of linear regression to predict CO2 emissions from vehicles based on factors such as engine size, number of cylinders, and fuel consumption. Linear regression is a statistical method used for modeling relationships between a dependent variable and one or more independent variables.
 
----
 
 ## What is Linear Regression?
 
@@ -11,7 +10,7 @@ Linear regression predicts continuous values (e.g., CO2 emissions) using one or 
 - **Dependent variable (y)**: The target or outcome to predict.
 - **Independent variable(s) (x)**: The predictors or causes of the target variable.
 
-### When to Use Linear Regression
+## When to Use Linear Regression
 
 Linear regression is suitable when:
 
@@ -22,11 +21,11 @@ Linear regression is suitable when:
 > :warning: **IMPORTANT:**
 > The dependent variable must be continuous. Independent variables can be either categorical or continuous.
 
----
+
 
 ## Types of Regression Models
 
-### 1. Simple Linear Regression
+## 1. Simple Linear Regression
 
 Simple regression uses a single independent variable to predict a dependent variable.
 
@@ -44,9 +43,9 @@ Where:
 - \( \theta_1 \): Coefficient for the independent variable
 - \( x_1 \): Independent variable
 
----
 
-### 2. Multiple Linear Regression
+
+## 2. Multiple Linear Regression
 
 Multiple regression uses more than one independent variable to predict a dependent variable.
 
@@ -70,7 +69,7 @@ Where:
 - \( x_i \): Independent variables
 - \( n \): Total number of independent variables
 
----
+
 
 ## Applications of Linear Regression
 
@@ -83,7 +82,6 @@ Linear regression is widely used in various domains, including:
 - **Healthcare**: Predicting health metrics based on lifestyle factors.
 - **Finance**: Forecasting trends and analyzing financial data.
 
----
 
 ## Resources and Further Reading
 
@@ -91,13 +89,11 @@ Linear regression is widely used in various domains, including:
 - [Scikit-learn Documentation: Linear Regression](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
 - [Microsoft ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
 
----
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 ## Need Help?
 
