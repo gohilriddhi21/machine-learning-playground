@@ -58,6 +58,7 @@ $$
 $$
 
 Or equivalently:
+
 $$
 \hat{y} = \theta_0 + \sum_{i=1}^{n} \theta_i x_i
 $$
