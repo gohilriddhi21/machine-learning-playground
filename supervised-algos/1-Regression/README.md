@@ -38,10 +38,10 @@ $$
 $$
 
 Where:
-- \( \hat{y} \): Predicted value (dependent variable)
-- \( \theta_0 \): Intercept (bias term)
-- \( \theta_1 \): Coefficient for the independent variable
-- \( x_1 \): Independent variable
+- $\hat{y}$: Predicted value (dependent variable)
+- $\theta_0$: Intercept (bias term)
+- $\theta_1$: Coefficient for the independent variable
+- $x_1$: Independent variable
 
 
 
@@ -63,11 +63,11 @@ $$
 $$
 
 Where:
-- \( \hat{y} \): Predicted value
-- \( \theta_0 \): Intercept (bias term)
-- \( \theta_i \): Coefficients for independent variables
-- \( x_i \): Independent variables
-- \( n \): Total number of independent variables
+- $\hat{y}$: Predicted value
+- $\theta_0$: Intercept (bias term)
+- $\theta_i$: Coefficients for independent variables
+- $x_i$: Independent variables
+- $n$: Total number of independent variables
 
 
 
